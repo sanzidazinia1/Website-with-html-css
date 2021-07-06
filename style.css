@@ -1,0 +1,10 @@
+.kushtia-span {
+  color: rgb(105, 90, 69);
+  font-size: 20px;
+}
+.search-bar {
+  border: 10px;
+  border-color: white;
+  border-radius: 10px;
+  padding: 5px;
+}
